@@ -1,6 +1,7 @@
 <h1 align="center">TEST GITMOJI RELEASE</h1>
 
 ![Pipeline status](https://github.com/Anatole-DC/test_semanticrelease_gitmoji/actions/workflows/release.yml/badge.svg)
+![Version](https://img.shields.io/github/v/release/Anatole-DC/test_semanticrelease_gitmoji)
 
 This repository is a test of semantic release with gitmoji.
 
