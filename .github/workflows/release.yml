@@ -22,7 +22,7 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: npx semantic-release
+        run: npx semantic-releas
       - name: Push commit
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
