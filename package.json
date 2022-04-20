@@ -1,5 +1,5 @@
 {
-  "name": "expr-gitmoji-releaserc",
+  "name": "test_gitmoji_release",
   "version": "0.0.0-development",
   "main": "index.js",
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/beaussan/expr-gitmoji-releaserc.git"
+    "url": "https://github.com/Anatole-DC/test_semanticrelease_gitmoji"
   },
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
