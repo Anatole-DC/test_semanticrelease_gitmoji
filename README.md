@@ -1,5 +1,7 @@
 <h1 align="center">TEST GITMOJI RELEASE</h1>
 
+![Pipeline status](https://github.com/Anatole-DC/test_semanticrelease_gitmoji/actions/workflows/release.yml/badge.svg)
+
 This repository is a test of semantic release with gitmoji.
 
 A Django project was added to this repository to apply some new features, and commits, in order to test the pipeline, and the good behavior of the project.
