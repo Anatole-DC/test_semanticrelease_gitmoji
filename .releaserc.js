@@ -37,6 +37,7 @@ module.exports = {
             ':iphone:',
             ':pencil2:',
             ':bento:',
+            ':fire:'
           ],
         },
       },
