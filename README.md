@@ -1,7 +1,10 @@
 <h1 align="center">TEST GITMOJI RELEASE</h1>
 
-![Pipeline status](https://github.com/Anatole-DC/test_semanticrelease_gitmoji/actions/workflows/release.yml/badge.svg)
+[![Pipeline status](https://github.com/Anatole-DC/test_semanticrelease_gitmoji/actions/workflows/release.yml/badge.svg)]()
 ![Version](https://img.shields.io/github/v/release/Anatole-DC/test_semanticrelease_gitmoji)
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-python-006dad?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.carloscuesta.me/)
+
 
 This repository is a test of semantic release with gitmoji.
 
